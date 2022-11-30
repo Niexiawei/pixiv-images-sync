@@ -1,3 +1,4 @@
 config/config.prod.yaml
 config/config.yaml
 main.exe
+logs/
